@@ -1,0 +1,1 @@
+# enable-right-click-extension
